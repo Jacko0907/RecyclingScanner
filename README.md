@@ -9,15 +9,12 @@ A mobile-friendly starter app using Next.js and Java Spring Boot.
 - Uploads the image to the Java backend
 - Returns and displays a sample recycling classification
 
-The backend currently returns a mock result. Replace the marked section in
-`recycling-api/src/main/java/com/example/recyclingapi/controller/ItemController.java`
-with your chosen image-recognition service later.
 
 ## Requirements
 
 - Node.js 20 or newer
 - Java 21
-- Maven 3.9 or newer (or use an IDE such as IntelliJ)
+- Maven 3.9 or newer
 
 ## 1. Run the Java backend
 
